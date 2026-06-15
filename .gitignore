@@ -1,0 +1,32 @@
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.user
+*.suo
+*.userprefs
+
+# Publish output
+publish/
+*.publishsettings
+
+# Rider / VS / VS Code
+.vs/
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
